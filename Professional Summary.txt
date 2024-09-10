@@ -1,0 +1,35 @@
+Professional Summary:
+"Experienced .NET developer with a proven track record in modernizing legacy applications by migrating from .NET Framework to .NET Core/.NET 6 and integrating cloud-native technologies. Expertise in modernizing monolithic architectures into microservices using Docker and Kubernetes, and deploying applications to Azure and AWS platforms. Skilled in leveraging DevOps practices, automating deployments with CI/CD pipelines using tools like Azure DevOps and GitHub Actions, and improving performance and scalability in modernized applications. Passionate about enhancing application reliability and optimizing systems for modern infrastructure."
+
+Professional Experience:
+.NET Developer, ABC Solutions
+April 2019 – Present
+
+Led the modernization of legacy ASP.NET applications by migrating from .NET Framework 4.x to .NET Core, improving application performance and reducing hosting costs by 25%.
+Architected and implemented microservices architecture for a high-traffic e-commerce platform using Docker containers, orchestrated via Kubernetes, leading to a 40% improvement in scalability.
+Migrated on-premises applications to Microsoft Azure, leveraging App Service and Azure SQL for high availability and auto-scaling, reducing infrastructure maintenance efforts.
+Implemented CI/CD pipelines using Azure DevOps, automating build, test, and deployment processes, reducing release cycle time by 30%.
+Refactored tightly-coupled monolithic codebases into loosely-coupled services, improving maintainability and enabling faster feature deployments.
+Projects Section:
+Legacy Application Modernization for Financial Services Platform
+Technologies: ASP.NET Core, Microservices, Docker, Azure, SQL Server, DevOps
+
+Migrated a 10-year-old monolithic ASP.NET MVC application to .NET Core and decomposed it into microservices, containerized using Docker, leading to significant performance gains and enhanced scalability.
+Deployed the modernized system to Azure Kubernetes Service (AKS) for dynamic scaling and high availability, cutting down server costs by 20%.
+Introduced Azure DevOps pipelines for continuous integration and delivery, enabling faster, more reliable releases and reducing manual deployment errors.
+Skills Section:
+Application Modernization (Legacy to .NET Core)
+Cloud Migration (Azure, AWS)
+Microservices Architecture
+Docker & Kubernetes
+DevOps & CI/CD Automation (Azure DevOps, Jenkins, GitHub Actions)
+Performance Optimization
+
+
+
+Secure E-Commerce Web Application
+ASP.NET Core, OWASP Implementation
+
+Applied OWASP Top 10 principles to secure an e-commerce platform built on ASP.NET Core, preventing vulnerabilities like Broken Authentication and Sensitive Data Exposure.
+Utilized ASP.NET Identity and OAuth 2.0 to create a secure authentication process with role-based access control, enhancing user account security.
+Implemented AES encryption for storing sensitive information such as payment details, ensuring compliance with data protection standards (e.g., GDPR).
