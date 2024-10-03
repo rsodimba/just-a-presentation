@@ -1,0 +1,13 @@
+Example Bullet Points for Resume
+Developed and organized repositories and projects in Azure DevOps and GitHub, ensuring alignment with the software development lifecycle.
+Established and managed Azure DevOps projects, organizing them into pipelines, boards, and repositories to streamline CI/CD processes.
+Configured and maintained GitHub repositories under personal, organizational, and team accounts to facilitate collaboration and version control across multiple development teams.
+Created structured project frameworks in Azure DevOps, integrating pipelines, boards, and repositories to enhance team productivity and project tracking.
+Managed repository structures in GitHub, implementing best practices for project organization under individual and team accounts, promoting efficient collaboration and version management.
+Example Work Experience Entry
+DevOps Engineer – Company Name
+Location | Dates of Employment
+
+Developed and organized repositories and projects in Azure DevOps and GitHub, ensuring alignment with the software development lifecycle.
+Established and managed Azure DevOps projects, organizing them into pipelines, boards, and repositories to streamline CI/CD processes.
+Configured and maintained GitHub repositories under personal, organizational, and team accounts to facilitate collaboration and version control across multiple development teams.
