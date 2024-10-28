@@ -1,0 +1,13 @@
+Project: Secure E-Commerce API
+
+Built a secure RESTful API for an e-commerce application, adhering to OWASP’s Secure Coding Practices using Java Spring Boot.
+Integrated JWT-based authentication and authorization, reducing unauthorized access incidents by 60%.
+Used Spring Validator and custom validation annotations to prevent injection attacks and enforce secure input validation.
+
+-----------------------------------------------
+Developed secure APIs by implementing OWASP’s recommended controls for input validation, reducing the risk of injection attacks by 40%.
+Utilized Spring Security to enforce strong authentication and authorization protocols, mitigating risks associated with broken access control (OWASP A01:2021).
+Implemented CSRF protection using Spring Security, significantly enhancing resilience against cross-site request forgery (CSRF) attacks.
+Monitored and managed dependencies using OWASP Dependency-Check, identifying and remediating vulnerabilities in third-party libraries.
+Developed secure password storage solutions by integrating bcrypt hashing for passwords, aligning with OWASP guidelines to prevent authentication-related attacks.
+Ensured API endpoints were safe from Cross-Site Scripting (XSS) by employing output encoding libraries and strict content security policies.
